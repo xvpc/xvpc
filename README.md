@@ -44,7 +44,7 @@ Some Skills and Technologies that I know/use.
 - Quiz Game
 - Stopwatch/clock
 - Ecommerce Website
-- Shorten Url Website
+- Shorten Websites Url
 - Portfolio ✔️
 - Food Recipes Website
 - Movies App
