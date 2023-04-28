@@ -33,7 +33,7 @@ Some Skills and Technologies that I know/use.
 #### Recent Projects
 - Tp Anime [https://tpanime.com](https://tpanime.com)
 - Portfolio [https://xvpc.dev](https://xvpc.dev)
-- Memory Game [[tpanime.com](https://xvpc.github.io/memory-game)](https://xvpc.github.io/memory-game)
+- Memory Game [https://xvpc.github.io/memory-game](https://xvpc.github.io/memory-game)
 - Template Portfolio Example [https://xvpc.github.io/temp-css-html](https://xvpc.github.io/temp-css-html)
 - TO-DO App [https://xvpc.github.io/todo](https://xvpc.github.io/todo)
 
