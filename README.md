@@ -52,8 +52,3 @@ Some Skills and Technologies that I know/use.
 - Typing Speed Test Website
 - TODO App ✔️
 - Guess Player Rank Website
-
-
-
-
-
