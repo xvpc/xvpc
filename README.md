@@ -31,11 +31,11 @@ Some Skills and Technologies that I know/use.
 
 
 #### Recent Projects
-- Tp Anime
-- Portfolio
-- Memory Game
-- Template Portfolio Example
-- TO-DO App
+- [Tp Anime](https://tpanime.com)
+- [Portfolio](https://xvpc.dev)
+- [Memory Game](https://xvpc.github.io/memory-game)
+- [Template Portfolio Example](https://xvpc.github.io/temp-css-html)
+- [TO-DO App](https://xvpc.github.io/todo)
 
 
 #### TODO:
