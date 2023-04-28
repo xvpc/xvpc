@@ -38,19 +38,19 @@ Some Skills and Technologies that I know/use.
 - TO-DO App
 
 
-#### TODO
-- Memory Game
+#### TODO:
+- Memory Game ✔️
 - Tic Tac Toe
 - Quiz Game
 - Stopwatch/clock
 - Ecommerce Website
 - Shorten Url Website
-- Portfolio
+- Portfolio ✔️
 - Food Recipes Website
 - Movies App
-- Anime App
+- Anime App ✔️
 - Typing Speed Test Website
-- TODO App
+- TODO App ✔️
 - Guess Player Rank Website
 
 
