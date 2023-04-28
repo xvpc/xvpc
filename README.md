@@ -28,9 +28,9 @@ Some Skills and Technologies that I know/use.
   <img class='nextjs-svg' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt='nextjs Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
 </div>
-<style>
+<styles>
   .nextjs-svg{background-color: red;}
- </style>
+</styles>
 
 #### Recent Projects
 - Tp Anime
