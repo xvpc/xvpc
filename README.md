@@ -11,9 +11,10 @@ But I shine more in Frontend development.
 Some Skills and Technologies that I know/use.
 
 <!-- ![html logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) -->
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50" height="50" alt='Profile Image'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50" height="50" alt='Profile Image'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50" height="50" alt='Profile Image'>
-
+</div>
 
 
