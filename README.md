@@ -36,11 +36,12 @@ Some Skills and Technologies that I know/use.
 - [Memory Game](https://xvpc.github.io/memory-game)
 - [Template Portfolio Example](https://xvpc.github.io/temp-css-html)
 - [TO-DO App](https://xvpc.github.io/todo)
+- [Tic Tac Toe](https://xvpc.github.io/tic-tac-toe)
 
 
 #### TODO:
 - Memory Game ✔️
-- Tic Tac Toe
+- Tic Tac Toe ✔️ 
 - Quiz Game
 - Stopwatch/clock
 - Ecommerce Website
