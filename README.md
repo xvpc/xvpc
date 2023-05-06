@@ -37,6 +37,7 @@ Some Skills and Technologies that I know/use.
 - [Template Portfolio Example](https://xvpc.github.io/temp-css-html)
 - [TO-DO App](https://xvpc.github.io/todo)
 - [Tic Tac Toe](https://xvpc.github.io/tic-tac-toe)
+- [ShortenThis](https://stul.site)
 
 
 #### TODO:
@@ -45,7 +46,7 @@ Some Skills and Technologies that I know/use.
 - Quiz Game
 - Stopwatch/clock
 - Ecommerce Website
-- Shorten Websites Url
+- Shorten Websites Url ✔️
 - Portfolio ✔️
 - Food Recipes Website
 - Movies App
