@@ -6,7 +6,7 @@ I Enjoy Coding and Programming, but I shine more in Front-end development.
 
 
 ### Portfolio
-[https://xvpc.dev](https://xvpc.dev)
+[xvpc.dev](https://xvpc.dev)
 
 
 ### My Skills
@@ -46,9 +46,9 @@ Some Skills and Technologies that I know/use.
 - Ecommerce Website
 - Shorten Websites Url ✔️
 - Portfolio ✔️
-- Food Recipes Website
+- Food Recipes App
 - Movies App
 - Anime App ✔️
-- Typing Speed Test Website
+- Typing Speed Test
 - TODO App ✔️
-- Guess Player Rank Website
+- Guess Player Rank
