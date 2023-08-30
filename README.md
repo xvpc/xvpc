@@ -12,8 +12,8 @@ I Enjoy Coding and Programming, but I shine more in Front-end development.
 ### My Skills
 Some Skills and Technologies that I know/use.
 
-<div>
-  <img style="margin-left: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
+<div style="border: 1px grey solid;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt='javascript Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt='typescript Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt='python Image'>
