@@ -8,11 +8,12 @@ I Enjoy Coding and Programming, but I shine more in Front-end development.
 ### Portfolio
 [https://xvpc.dev](https://xvpc.dev)
 
+<hr />
 
 ### My Skills
 Some Skills and Technologies that I know/use.
 
-<div style="border: 1px grey solid;">
+<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt='javascript Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt='typescript Image'>
@@ -32,6 +33,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
 </div>
 
+<hr />
 
 #### Recent Projects
 - [Tp Anime](https://tpanime.com)
