@@ -8,7 +8,7 @@ I Enjoy Coding and Programming, but I shine more in Front-end development.
 ### Portfolio
 [https://xvpc.dev](https://xvpc.dev)
 
-<hr width="1" />
+<hr height="1" />
 
 ### My Skills
 Some Skills and Technologies that I know/use.
@@ -33,7 +33,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
 </div>
 
-<hr />
+<hr height="1" />
 
 #### Recent Projects
 - [Tp Anime](https://tpanime.com)
