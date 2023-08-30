@@ -27,7 +27,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt='react Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt='redux Image'>
-  <img class='nextjs-svg' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt='nextjs Image'>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" alt='nextjs Image'>
   <img src="https://e7.pngegg.com/pngimages/114/535/png-clipart-mysql-cluster-database-management-system-oracle-sql-logo-blue-text.png" width="50" height="50" alt='sql Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
 </div>
