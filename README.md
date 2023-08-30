@@ -8,7 +8,7 @@ I Enjoy Coding and Programming, but I shine more in Front-end development.
 ### Portfolio
 [https://xvpc.dev](https://xvpc.dev)
 
-<hr height="1" />
+<hr height="0.2" />
 
 ### My Skills
 Some Skills and Technologies that I know/use.
