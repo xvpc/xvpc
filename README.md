@@ -45,6 +45,7 @@ Some Skills and Technologies that I know/use.
 - [TO-DO App](https://xvpc.github.io/todo)
 - [Tic Tac Toe](https://xvpc.github.io/tic-tac-toe)
 - [ShortenThis](https://stul.site)
+- [Quick Recipes](https://quickrecipes.pages.dev)
 
 
 #### TODO:
@@ -52,7 +53,7 @@ Some Skills and Technologies that I know/use.
 - Anime Website ✔️
 - Shorten Websites Url ✔️
 - Portfolio ✔️
-- Food Recipes App
+- Food Recipes App ✔️
 - Movies App
 - Anime App ✔️
 - Stopwatch/clock
