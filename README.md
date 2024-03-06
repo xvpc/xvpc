@@ -30,7 +30,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt='react Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt='redux Image'>
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="50" height="50" alt='nextjs Image'>
+  <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_1280/0/1678383920919?e=1712793600&v=beta&t=XaV1cR5dsingtSlzYyyBESEbCbsxUILBouZ3Gn2XtXI" width="50" height="50" alt='nextjs Image'>
   <br />
   <img src="https://e7.pngegg.com/pngimages/114/535/png-clipart-mysql-cluster-database-management-system-oracle-sql-logo-blue-text.png" width="80" height="50" alt='sql Image'>
   <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo.png" width="80" height="50" alt='sqlite Image'>
