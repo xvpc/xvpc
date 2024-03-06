@@ -15,8 +15,8 @@ Some Skills and Technologies that I know/use.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt='javascript Image'>
-  <img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" width="50" height="50" alt='rust Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt='typescript Image'>
+  <img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" width="50" height="50" alt='rust Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt='python Image'>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="50" height="50" alt='csharp Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt='cplusplus Image'>
