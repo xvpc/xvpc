@@ -13,6 +13,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 Some Skills and Technologies that I know/use.
 
 <div>
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15v4c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2v-4M17 9l-5 5-5-5M12 12.8V2.5"></path></svg>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt='javascript Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50" alt='rust Image'>
