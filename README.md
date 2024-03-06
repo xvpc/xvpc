@@ -24,7 +24,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt='css Image'>
   <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt='bootstrap Image'>
-  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" width="50" height="50" alt='tailwind Image'>
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" width="80" height="50" alt='tailwind Image'>
   <img src="https://mui.com/static/logo.png" width="50" height="50" alt='mui Image'>
   <img src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg" width="50" height="50" alt='flutter Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
