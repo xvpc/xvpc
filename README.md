@@ -15,7 +15,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
+  <img title="hello" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/ts.png" width="50" height="50" alt='typescript Image'>
   <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/html.png" width="50" height="50" alt='html Image'>
   <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/css.png" width="50" height="50" alt='css Image'>
