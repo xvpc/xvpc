@@ -13,7 +13,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 Some Skills and Technologies that I know/use.
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" height="50" alt='dart Image'>
+  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt='javascript Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt='typescript Image'>
   <img src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png" width="50" height="50" alt='rust Image'>
