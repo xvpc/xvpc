@@ -10,8 +10,8 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 <hr height="1" />
 
 <div align="center">
-  <h2>My Skills</h2>
-  <h3>Some Skills and Technologies that I know/use.</h3>
+  <h3>My Skills</h3>
+  <h5>Some Skills and Technologies that I know/use.</h5>
 </div>
 
 <div align="center">
