@@ -35,7 +35,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
   <img title="Sass & Scss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
   <br />
   <img title="Sql" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/sql.png" width="50" height="50" alt='sql Image'>
-  <img title="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="80" height="50" alt='sqlite Image'>
+  <img title="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt='sqlite Image'>
   <img title="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt='mongodb Image'>
 </div>
 
