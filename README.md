@@ -12,7 +12,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 ### My Skills
 Some Skills and Technologies that I know/use.
 
-<div>
+<div style="">
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/ts.png" width="50" height="50" alt='typescript Image'>
@@ -24,7 +24,7 @@ Some Skills and Technologies that I know/use.
   <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/css.png" width="50" height="50" alt='css Image'>
   <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt='bootstrap Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/tailwind.png" width="80" height="50" alt='tailwind Image'>
+  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/tailwind.png" width="50" height="50" alt='tailwind Image'>
   <img src="https://mui.com/static/logo.png" width="50" height="50" alt='mui Image'>
   <img src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg" width="50" height="50" alt='flutter Image'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
