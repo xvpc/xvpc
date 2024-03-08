@@ -12,7 +12,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 ### My Skills
 Some Skills and Technologies that I know/use.
 
-<div algin="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/ts.png" width="50" height="50" alt='typescript Image'>
