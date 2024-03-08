@@ -15,28 +15,28 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 </div>
 
 <div align="center">
-  <img title="hello" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/ts.png" width="50" height="50" alt='typescript Image'>
-  <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/html.png" width="50" height="50" alt='html Image'>
-  <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/css.png" width="50" height="50" alt='css Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/python.png" width="50" height="50" alt='python Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/rust.png" width="50" height="50" alt='rust Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/csharp.png" width="50" height="50" alt='csharp Image'>
-  <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/cpp.png" width="50" height="50" alt='cplusplus Image'>
+  <img title="Javascript" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png" width="50" height="50" alt='javascript Image'>
+  <img title="Typescript" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/ts.png" width="50" height="50" alt='typescript Image'>
+  <img title="Html" src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/html.png" width="50" height="50" alt='html Image'>
+  <img title="Css" src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/css.png" width="50" height="50" alt='css Image'>
+  <img title="Dart" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
+  <img title="Python" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/python.png" width="50" height="50" alt='python Image'>
+  <img title="Rust" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/rust.png" width="50" height="50" alt='rust Image'>
+  <img title="C#" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/csharp.png" width="50" height="50" alt='csharp Image'>
+  <img title="C++" src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/cpp.png" width="50" height="50" alt='cplusplus Image'>
   <br />
-  <img src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/tsx.png" width="50" height="50" alt='react Image'>
-  <img style="mix-blend-mode: lighten;" src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_1280/0/1678383920919?e=1712793600&v=beta&t=XaV1cR5dsingtSlzYyyBESEbCbsxUILBouZ3Gn2XtXI" width="50" height="50" alt='nextjs Image'>
-  <img src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg" width="50" height="50" alt='flutter Image'>
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/tailwind.png" width="50" height="50" alt='tailwind Image'>
-  <img src="https://mui.com/static/logo.png" width="50" height="50" alt='mui Image'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt='bootstrap Image'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt='redux Image'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
+  <img title="ReactJs" src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/tsx.png" width="50" height="50" alt='react Image'>
+  <img title="NextJs" style="mix-blend-mode: lighten;" src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_1280/0/1678383920919?e=1712793600&v=beta&t=XaV1cR5dsingtSlzYyyBESEbCbsxUILBouZ3Gn2XtXI" width="50" height="50" alt='nextjs Image'>
+  <img title="Flutter" src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg" width="50" height="50" alt='flutter Image'>
+  <img title="Tailwind" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/tailwind.png" width="50" height="50" alt='tailwind Image'>
+  <img title="Material-ui" src="https://mui.com/static/logo.png" width="50" height="50" alt='mui Image'>
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt='bootstrap Image'>
+  <img title="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt='redux Image'>
+  <img title="Sass & Scss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt='sass Image'>
   <br />
-  <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/sql.png" width="50" height="50" alt='sql Image'>
-  <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo.png" width="80" height="50" alt='sqlite Image'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
+  <img title="Sql" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/sql.png" width="50" height="50" alt='sql Image'>
+  <img title="Sqlite" src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo.png" width="80" height="50" alt='sqlite Image'>
+  <img title="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt='mongodb Image'>
 </div>
 
 <hr height="1" />
