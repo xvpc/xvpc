@@ -27,7 +27,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
   <br />
   <img title="ReactJs" src="https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/tsx.png" width="50" height="50" alt='react Image'>
   <img title="NextJs" style="mix-blend-mode: lighten;" src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_1280/0/1678383920919?e=1712793600&v=beta&t=XaV1cR5dsingtSlzYyyBESEbCbsxUILBouZ3Gn2XtXI" width="50" height="50" alt='nextjs Image'>
-  <img title="Flutter" src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg" width="50" height="50" alt='flutter Image'>
+  <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" alt='flutter Image'>
   <img title="Tailwind" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/tailwind.png" width="50" height="50" alt='tailwind Image'>
   <img title="Material-ui" src="https://mui.com/static/logo.png" width="50" height="50" alt='mui Image'>
   <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt='bootstrap Image'>
