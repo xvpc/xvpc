@@ -9,8 +9,10 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 
 <hr height="1" />
 
-### My Skills
-Some Skills and Technologies that I know/use.
+<div align="center">
+  ### My Skills
+  Some Skills and Technologies that I know/use.
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/dart.png" width="50" height="50" alt='dart Image'>
