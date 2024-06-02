@@ -51,6 +51,8 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 - [ShortenThis](https://stul.site)
 - [Quick Recipes](https://quickrecipes.pages.dev)
 - [Typer](https://xvpc.github.io/typer)
+- [Animations](https://xvpc.github.io/animations)
+- [Dynamix Gym](https://dynamix-gym.pages.dev)
 
 
 #### TODO:
