@@ -42,13 +42,13 @@ I Enjoy Coding and Programming, but I shine more in Web development.
 <hr height="1" />
 
 #### Recent Projects
-- [Tp Anime](https://tpanime.com)
+- [Tp Anime](https://tpanime.pages.dev)
 - [Portfolio](https://xvpc.dev)
 - [Memory Game](https://xvpc.github.io/memory-game)
 - [Template Portfolio Example](https://xvpc.github.io/temp-css-html)
 - [TO-DO App](https://xvpc.github.io/todo)
 - [Tic Tac Toe](https://xvpc.github.io/tic-tac-toe)
-- [ShortenThis](https://stul.site)
+- [ShortenThis](https://shortenthis.pages.dev)
 - [Quick Recipes](https://quickrecipes.pages.dev)
 - [Typer](https://xvpc.github.io/typer)
 - [Animations](https://xvpc.github.io/animations)
