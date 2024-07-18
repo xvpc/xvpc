@@ -5,7 +5,6 @@ I'm A Software engineer with +5 years of experience.
 I Enjoy Coding and Programming, but I shine more in Web development.
 
 
-#### Portfolio: [https://xvpc.dev](https://xvpc.dev)
 
 <hr height="1" />
 
