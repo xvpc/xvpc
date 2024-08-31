@@ -36,6 +36,7 @@ I Enjoy Coding and Programming, but I shine more in Web development.
   <img title="Sql" src="https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/sql.png" width="50" height="50" alt='sql Image'>
   <img title="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt='sqlite Image'>
   <img title="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt='mongodb Image'>
+  <img title="Arch Linux" src="https://avatars.githubusercontent.com/u/65091038?v=4" width="50" height="50" alt='Arch Image'>
 </div>
 
 <hr height="1" />
